@@ -1,0 +1,27 @@
+.testhead {
+  text-align: center;
+}
+.head {
+  text-align: center;
+  font-weight: bold;
+}
+.columns {
+  height: 400px;
+  width: 400px;
+}
+.lemon {
+  font-size: 60px;
+}
+.sentence {
+  margin: 0 25px;
+}
+.photo {
+  width: 15%;
+  border-radius: 100%;
+}
+.iphone {
+  display: flex;
+}
+.iphone h4 {
+  margin-top: 35px;
+}
